@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (IMPORTANT)
+.env
+.env.local
+
+# Streamlit
+.streamlit/
+*.pdf
+
+# Vector Store
+faiss_index/
+
+# VS Code
+.vscode/
+
+# Temp files
+tmp/
+temp/
