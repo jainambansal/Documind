@@ -87,7 +87,7 @@ DocuMind/
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/viratsharma22/DocuMind.git
+git clone https://github.com/jainambansal/DocuMind.git
 cd DocuMind
 ```
 
